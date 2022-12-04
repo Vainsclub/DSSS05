@@ -13,7 +13,7 @@ def main(speed=0, bg_color="grey"):
     # change background color
     turtle_screen.bgcolor(bg_color)
     colours=["cyan","purple","white","blue","red"]
-    """TODO: define different colors here"""
+   # """TODO: define different colors here"""
 
 
     for _ in range(10):

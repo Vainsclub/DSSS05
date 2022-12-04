@@ -1,3 +1,3 @@
-from Snowflake import let_it_snow
+from snowflake import let_it_snow
 
 let_it_snow.main()
